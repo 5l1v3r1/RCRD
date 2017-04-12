@@ -1,0 +1,10 @@
+c:\users\weeke\documents\visual studio 2017\Projects\Rust_Crash_Report_Deleter\Rust_Crash_Report_Deleter\bin\Debug\Rust_Crash_Report_Deleter.exe.config
+c:\users\weeke\documents\visual studio 2017\Projects\Rust_Crash_Report_Deleter\Rust_Crash_Report_Deleter\bin\Debug\Rust_Crash_Report_Deleter.exe
+c:\users\weeke\documents\visual studio 2017\Projects\Rust_Crash_Report_Deleter\Rust_Crash_Report_Deleter\bin\Debug\Rust_Crash_Report_Deleter.pdb
+c:\users\weeke\documents\visual studio 2017\Projects\Rust_Crash_Report_Deleter\Rust_Crash_Report_Deleter\bin\Debug\Rust_Crash_Report_Deleter.xml
+c:\users\weeke\documents\visual studio 2017\Projects\Rust_Crash_Report_Deleter\Rust_Crash_Report_Deleter\obj\Debug\Rust_Crash_Report_Deleter.DRCR.resources
+c:\users\weeke\documents\visual studio 2017\Projects\Rust_Crash_Report_Deleter\Rust_Crash_Report_Deleter\obj\Debug\Rust_Crash_Report_Deleter.Resources.resources
+c:\users\weeke\documents\visual studio 2017\Projects\Rust_Crash_Report_Deleter\Rust_Crash_Report_Deleter\obj\Debug\Rust_Crash_Report_Deleter.vbproj.GenerateResource.Cache
+c:\users\weeke\documents\visual studio 2017\Projects\Rust_Crash_Report_Deleter\Rust_Crash_Report_Deleter\obj\Debug\Rust_Crash_Report_Deleter.exe
+c:\users\weeke\documents\visual studio 2017\Projects\Rust_Crash_Report_Deleter\Rust_Crash_Report_Deleter\obj\Debug\Rust_Crash_Report_Deleter.xml
+c:\users\weeke\documents\visual studio 2017\Projects\Rust_Crash_Report_Deleter\Rust_Crash_Report_Deleter\obj\Debug\Rust_Crash_Report_Deleter.pdb
